@@ -1,0 +1,264 @@
+.header{
+  width: 100%;
+  height: 40px;
+  color: #050c54;
+  font-family: Raleway;
+}
+.header h1{
+  margin-top: 20px;
+  margin-left: 20px;
+  font-size: 45px;
+  margin-right: 150px;
+  float: left;
+}
+img{
+  float: left;
+  height: 120px;
+  width: 120px;
+  z-index: 30;
+}
+.navigation{
+  float: left;
+  margin-left: 30px;
+}
+.navigation ul,li{
+  list-style-type: none;
+  padding-top: 20px;
+  float: left;
+  margin-left: 50px;
+  font-size: 20px;
+}
+.custom-shape-divider-top-1603696392 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+.custom-shape-divider-top-1603696392 svg {
+    position: relative;
+    display: block;
+    width: calc(169% + 1.3px);
+    height: 476px;
+}
+.custom-shape-divider-top-1603696392 .shape-fill {
+    fill: #50E3D226;
+}
+.intro{
+  margin-top: 200px;
+  width: 100%;
+  margin-left: 0;
+}
+.intro h1{
+  float: left;
+  font-family: Raleway;
+  font-weight: 700;
+  text-align: left;
+  font-size: 50px;
+  color: #444444;
+  font-style: bold;
+  margin-left: 70px;
+}
+i{
+  padding-top: 0;
+}
+span{
+  color: blue;
+}
+.intro button{
+  margin-top: 10px;
+  margin-left: 100px;
+  float: left;
+  height: 40px;
+  width: 250px;
+  border-radius: 10px;
+  background-color: #800517;
+  color: white;
+  font-style: bold;
+  font-size: 20px;
+}
+video{
+  float: right;
+  margin-right: 30px;
+  height: 400px;
+  width: 700px;
+  margin-left: 30px;
+  border-radius: 50px;
+  opacity: 7;
+  box-shadow: 12px 9px 13px ;
+}
+.achievments{
+  margin-top: 100px;
+  float: left;
+}
+.achievments li{
+  margin-left: 45px;
+  list-style-type: none;
+  width: 250px;
+  text-align: center;
+  text-decoration: none;
+  font-family: Poppins;
+  font-size: 17px;
+  height: 90px;
+  border-radius: 34px;
+  background: #fbfdfc;
+  box-shadow:  17px 17px 22px #babbba,
+             -17px -17px 22px #ffffff;
+}
+.achievments ul{
+  list-style-type: none;
+  float: left;
+}
+.achievments img{
+  height: 90px;
+  width: 100px;
+  padding-bottom: 20px;
+  display: block;
+  align-items: center;
+}
+.head{
+  color: #444444;
+  font-family: Raleway;
+  font-size: 50px;
+  text-align: center;
+  margin-top: 1000px;
+}
+.res img{
+  float: right;
+  height: 500px;
+  width: 600px;
+  border-radius: 10px;
+}
+.text a{
+  float: left;
+}
+.text{
+  color: #373737;
+  margin: 160px 0 0 50px;
+  font-family: Raleway;
+  font-size: 20px;
+}
+.text img{
+  float: left;
+  height: 100px;
+  width: 100px;
+  margin-top: 30px;
+  margin-right: 20px;
+}
+.work h1{
+  color: #373737;
+  font-family: Raleway;
+  font-size: 45px;
+  text-align: center;
+  margin-top: 100px;
+}
+.work img{
+  display: flex;
+  float: left;
+  border-radius: 50%;
+  border: 3px solid #373737;
+  margin: 50px 50px 0 170px;
+  height: 200px;
+  width: 200px;
+}
+.para li{
+  list-style-type: none;
+  margin-top: 10px;
+  float: left;
+  margin-left: 130px;
+  margin-right: 130px;
+  font-family: Poppins;
+  font-size: 20px;
+}
+.work button{
+  float: left;
+  margin: 60px 500px 0 550px;
+  height: 40px;
+  width: 250px;
+  border-radius: 10px;
+  background-color: #800517;
+  color: white;
+  font-style: bold;
+  font-size: 20px;
+}
+.next{
+  float: left;
+  margin-right: 500px;
+  margin-left: 550px;
+}
+.work video{
+  float: left;
+  margin: 50px 20px 0 30px ;
+  height: 300px;
+  width: 600px;
+  border-radius: 0;
+  box-shadow: 0 0 0 0;
+  opacity: 7;
+}
+.infor{
+  float: left;
+  font-size: 15px;
+  margin: 0 40px 0 100px;
+  font-family: Poppins;
+}
+.infor img{
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  margin: 30px 30px 0 30px;
+}
+.bottom{
+  font-family: Poppins;
+  font-size: 20px;
+  margin: 1150px 0 0 0;
+  text-align: center;
+  color: blue;
+}
+.bottom button{
+  float: left;
+  margin: 10px 500px 0 550px;
+  height: 40px;
+  width: 250px;
+  border-radius: 10px;
+  background-color: #800517;
+  color: white;
+  font-style: bold;
+  font-size: 20px;
+}
+.courses{
+  font-family: Poppins;
+  color: #373737;
+}
+.courses li{
+  margin: 50px;
+  list-style-type: none;
+  text-align: center;
+  text-align-last: center;
+  border-radius: 0px;
+  background: #fbfdfc;
+  box-shadow:  60px 31px 61px #9c9d9c,
+             -60px -31px 61px #ffffff;
+}
+.end{
+  margin-top: 60px 30px 30px 30px;
+  float: left;
+  font-size: 17px;
+  font-family: Poppins;
+}
+footer p{
+  float: left;
+  font-size: 17px;
+  margin-top: 20px;
+  font-family: Poppins;
+}
+footer li{
+  margin-top: 2px;
+  font-family: Poppins;
+  font-size: 17px;
+  list-style-type: disc;
+}
+.last{
+  text-align: center;
+  font-size: 20px;
+}
